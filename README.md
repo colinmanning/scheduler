@@ -1,4 +1,4 @@
-# scheduler
+# tf scheduler
 Prototype Spring Boot version of tf scheduler
 
 Exploring migrating from python to Java, using Spring Boot to also integrate the status monitoring via REST web service.
