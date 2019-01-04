@@ -11,5 +11,4 @@ import tf.services.scheduler.entities.DriverDatafile;
 public interface DriverDatafileRepository extends PagingAndSortingRepository<DriverDatafile, Long> {
 
   List<DriverDatafile> findByParseState(@Param("value") String value);
-
 }
