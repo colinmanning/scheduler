@@ -8,14 +8,6 @@ public class Scheduler {
 
   private boolean done = true;
   public Scheduler() {
-    start();
-  }
-
-  private void start() {
-    this.done = false;
-    while (!this.done) {
-
-	 }
   }
 
   public static void main(String[] args) {
